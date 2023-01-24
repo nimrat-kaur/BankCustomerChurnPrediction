@@ -1,4 +1,4 @@
-# BankCustomerChurnPrediction
+# Bank Customer Churn Prediction
 Bank Customer Churn Prediction Using Machine Learning 
 
 Customer Churn prediction means knowing which customers are likely to leave or unsubscribe from your service.
